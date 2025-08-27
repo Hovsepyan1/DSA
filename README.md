@@ -12,8 +12,6 @@ A collection of Python implementations for fundamental data structures and sorti
   - [Installation](#installation)  
 - [Usage](#usage)  
 - [Algorithms & Data Structures Included](#algorithms--data-structures-included)  
-- [Contributing](#contributing)  
-- [License](#license)
 
 ## Overview
 
@@ -63,7 +61,7 @@ Many modules include tests or demonstration code in a block like:
 if __name__ == "__main__":
     # Example usage or testing
 
-Algorithms & Data Structures Included
+##Algorithms & Data Structures Included
 Data Structures
 
 Linked List
